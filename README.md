@@ -1,4 +1,4 @@
-Transfer-Learning-using-VGG16
+# Transfer-Learning-using-VGG16
 
 Most of the time we don't want to train a whole convolutional network ourselves. Modern ConvNets training on huge datasets like ImageNet take weeks on multiple GPUs.
 Instead, most people use a pretrained network either as a fixed feature extractor, or as an initial network to fine tune.
