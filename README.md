@@ -1,6 +1,6 @@
 # 22-Transfer-Learning-using-VGG16-for-Flower-Image-Classification
 
-Most of the time we don't want to train a whole convolutional network yourself. Modern ConvNets training on huge datasets like ImageNet take weeks on multiple GPUs.
+Most of the time we don't want to train a whole convolutional network ourselves. Modern ConvNets training on huge datasets like ImageNet take weeks on multiple GPUs.
 Instead, most people use a pretrained network either as a fixed feature extractor, or as an initial network to fine tune.
 
 Transfer learning involves taking a pre-trained neural network and adapting the neural network to a new, different data set.
